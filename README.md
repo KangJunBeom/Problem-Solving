@@ -8,14 +8,15 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
 **답안 코드 파일명**
-- ex) BOJ_홍길동_G5.cpp | PG_홍길동_L3.cpp
-- 백준_문제이름_난이도 | 2. 프로그래머스_문제이름_난이도
+- ex) BOJ_1234_G5.cpp | PG_홍길동전_L3.cpp
+- 백준_문제번호_난이도 | 2. 프로그래머스_문제이름_난이도
 
 **코드 설명**
 - 코드 파일 내 주석 참고
 
 ## 🎯  
 
+0. 수학
 1. 시뮬레이션 & 구현
 2. 스택 & 큐
 3. 정렬 & 탐색
